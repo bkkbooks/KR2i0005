@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2i0005/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部九
+  hash: sha256:7259abc35f9c57e48d61e8bd9fb410aa10fef2792f2e1139b2461e6b899d1fba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2i0005_WYG_000-1a, image: WYG0463/WYG0463-0315a.png}
+body:
+  text: 十六國春秋載記𩔖提要臣等謹案十六國春秋一百卷舊本題魏崔鴻撰實則明嘉興屠喬孫項琳之偽本也鴻作十六國春秋一百二卷見魏書本傳隋志唐志皆載之宋初李昉等作太平御覽猶引其文宋藝文志始不著録南宋諸家書目亦不載是亡於北宋也明何鏜漢魏叢書載鴻書十六篇國各一録卷帙寥寥與舊史所記不合世疑其偽萬厯以後此本乃出莫知其所自來證以藝文𩔖聚諸書所引一一相同遂行於世論者或疑鴻身仕北朝而仍用晉宋年號今考劉知㡬史通探頤篇曰鴻書之紀綱皆以晉為主亦猶班書之載吳項必繫漢年陳志之述孫劉皆宗魏世喬孫等正巧附斯義以售其欺所摘者未中其疾惟魏書載鴻子子元奏稱刋著越燕秦夏梁蜀遺載為之贊序而此本無贊序史通表厯篇稱晉氏播遷南據楊越魏宗勃起北雄燕代其間諸偽十有六家不附正朔自相君長崔鴻著表頗有甄明而此本無表是則檢閲偶疎失於彌縫耳然其文皆聨綴古書非由杜撰考十六國之事者固宜以是編為總滙焉録而存之削其標名亦疑以𫝊疑之義云乾隆四十二年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:1ebda57323ffc72d458d254aec277df0dee9ba39fc0b434fa5fa8cf1de4cd6f8
+metadata:
+  title: 十六國春秋
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:37:15.164262'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2i0005/KR2i0005_000.txt
+hash: sha256:ce1e4187e9386afc234eb896f89dc3e43f7eec2eafe9bdb78ad19fa7cf2bbf0b

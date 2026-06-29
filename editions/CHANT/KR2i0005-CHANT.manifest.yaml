@@ -1,0 +1,215 @@
+canonical_identifier: bkk:krp/KR2i0005/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2i0005/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十六國春秋十六卷
+  identifiers:
+    krp: KR2i0005
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR2i
+    tls-internal: swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR2i0005.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2i0005_001-CHANT.yaml, hash: 'sha256:b259c33167795f5a169ad1f6e1acd6c1c46f61a7612df24f774bc59a08583f11'}
+  - {seq: 2, filename: KR2i0005_002-CHANT.yaml, hash: 'sha256:e49c9f01ca9892855691bb02ec480c00ae8ccbec0f481f7b46b6bd3ddd3936f1'}
+  - {seq: 3, filename: KR2i0005_003-CHANT.yaml, hash: 'sha256:d4572da89109e480dcdfe0dd4cf0f81cddcf026f4b76c9d330c0a28d359c53d6'}
+  - {seq: 4, filename: KR2i0005_004-CHANT.yaml, hash: 'sha256:66aaded8a7eac8a3e2234472bad5f45ecc6663095aed29281364052c3092174c'}
+  - {seq: 5, filename: KR2i0005_005-CHANT.yaml, hash: 'sha256:61b85bbaf948c52816f1c9b0c02da802a43c3e57e5876aae9baada4df2fe7661'}
+  - {seq: 6, filename: KR2i0005_006-CHANT.yaml, hash: 'sha256:320a93cf0fa70b521a99c2004a0ff7666f14daa0fc0494b278fc73f4f2e4a1c1'}
+  - {seq: 7, filename: KR2i0005_007-CHANT.yaml, hash: 'sha256:4f056a7b252f0dfff63edfe27b19cb34313f5018f17836bf782306379481998e'}
+  - {seq: 8, filename: KR2i0005_008-CHANT.yaml, hash: 'sha256:3df6287862fe93cc0da8b133584a573f4eb5fd1e1d384a20bb94b8b5df373885'}
+  - {seq: 9, filename: KR2i0005_009-CHANT.yaml, hash: 'sha256:c1255c855c7388930e4cd4ec8400cb28a510ad39fd398c1f7af2b5dceaa0ebde'}
+  - {seq: 10, filename: KR2i0005_010-CHANT.yaml, hash: 'sha256:0c805477a79f868c237c6f280abd5b6e3ca558ce58a227c2a1e5922ea66e6db4'}
+  - {seq: 11, filename: KR2i0005_011-CHANT.yaml, hash: 'sha256:0c6eff318afed1ad5920f0a3ca871c0802549b7b2bc87101463ca9af3fc98582'}
+  - {seq: 12, filename: KR2i0005_012-CHANT.yaml, hash: 'sha256:a411ec472f71ba1151fc054e7954b584c5a58bbe1d0dd683b8c8afec6c764925'}
+  - {seq: 13, filename: KR2i0005_013-CHANT.yaml, hash: 'sha256:54214758179d4791576371133d4017bfe16a162fad6809d6e7174424863de115'}
+  - {seq: 14, filename: KR2i0005_014-CHANT.yaml, hash: 'sha256:d57a598bb41e2b2340d9fb7e0ff9d1880584f595e7148c2d8c5c8eef99180a18'}
+  - {seq: 15, filename: KR2i0005_015-CHANT.yaml, hash: 'sha256:57affd4567a8211782753d1d2c34ecb5977be4dadb3b0ff45d3c744fe2def74a'}
+  - {seq: 16, filename: KR2i0005_016-CHANT.yaml, hash: 'sha256:287b14a732c615626bf842dd432b174aec0feb56a6298de265dd8deacc2f8ee3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2i0005_001-CHANT.markers.yaml, hash: 'sha256:716bb47794cee66773f055223ca36d990779ab221a3d16b6825ab8fd4d2af5d8'}
+  - {seq: 2, role: markers, filename: assets/KR2i0005_002-CHANT.markers.yaml, hash: 'sha256:df000ec0082e13669289001699280286c2547549516e08f4ea68f0afdc8e2018'}
+  - {seq: 3, role: markers, filename: assets/KR2i0005_003-CHANT.markers.yaml, hash: 'sha256:bb23eb737371121571745e0f442e8a4d2fb28a60e8e4d4ae802852243180de37'}
+  - {seq: 4, role: markers, filename: assets/KR2i0005_004-CHANT.markers.yaml, hash: 'sha256:1e63773c92c80069638a0d92eecf9e07307bde258ad96c399928e294a7c174cb'}
+  - {seq: 5, role: markers, filename: assets/KR2i0005_005-CHANT.markers.yaml, hash: 'sha256:a2398db7783304414d57a40acfb12732e8e906f8a33e4fa455a6784c5467bd82'}
+  - {seq: 6, role: markers, filename: assets/KR2i0005_006-CHANT.markers.yaml, hash: 'sha256:bc02d6cb6eef317bc350c690eb9cf282246dcc3a0a881c8d815b87f8765c9f64'}
+  - {seq: 7, role: markers, filename: assets/KR2i0005_007-CHANT.markers.yaml, hash: 'sha256:46a650844e5c8078b6747a66664241878d135aa5f4912ae27f74db2ce7d9ce65'}
+  - {seq: 8, role: markers, filename: assets/KR2i0005_008-CHANT.markers.yaml, hash: 'sha256:77d111726dc3e90e1f9c54fba9d65254f53c638d48d9fac0a586d5c681927855'}
+  - {seq: 9, role: markers, filename: assets/KR2i0005_009-CHANT.markers.yaml, hash: 'sha256:cca465917a76dbcdc61b872e3bd3254bafe6f4e4810fd3b1bd6a8946874193e9'}
+  - {seq: 10, role: markers, filename: assets/KR2i0005_010-CHANT.markers.yaml, hash: 'sha256:6e4c2d4589d17f7d9c68cd5a4ebb06f2eb6212411d024f7e08ebfbde73a94dfd'}
+  - {seq: 11, role: markers, filename: assets/KR2i0005_011-CHANT.markers.yaml, hash: 'sha256:a8bd4de69efbfeb6ebf2d61133104544390696862d857a04951dc927d48ccc62'}
+  - {seq: 12, role: markers, filename: assets/KR2i0005_012-CHANT.markers.yaml, hash: 'sha256:f0c057284f3fee6b6ec80cda97767499f4975fa48e19d0b4e64990fa42e96215'}
+  - {seq: 13, role: markers, filename: assets/KR2i0005_013-CHANT.markers.yaml, hash: 'sha256:0defb9773e1913ff8d06d5e72901571c5d209098e236f1260c641b7c7873938d'}
+  - {seq: 14, role: markers, filename: assets/KR2i0005_014-CHANT.markers.yaml, hash: 'sha256:85bb9f9700f03659a9672dddd1e2b3aa692332a34ec815ef7c9a73a9235eabe0'}
+  - {seq: 15, role: markers, filename: assets/KR2i0005_015-CHANT.markers.yaml, hash: 'sha256:3cb2815f861c35c764ebe9385997be40eed2a2b6cd28e055c923e534045a3ba8'}
+  - {seq: 16, role: markers, filename: assets/KR2i0005_016-CHANT.markers.yaml, hash: 'sha256:bc2c4308574514e5184afb45af8519142c98f7c1f4a7905a4506ba358606a6ce'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2i0005_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 3577
+  label: 十六國春秋前趙錄
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2i0005_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 4767
+  label: 十六國春秋後趙錄
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2i0005_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 2541
+  label: 十六國春秋前燕錄
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2i0005_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 7790
+  label: 十六國春秋前秦錄
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2i0005_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 3023
+  label: 十六國春秋後秦錄
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2i0005_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 2272
+  label: 十六國春秋蜀錄
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2i0005_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 2836
+  label: 十六國春秋前涼錄
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2i0005_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 855
+  label: 十六國春秋西涼錄
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2i0005_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 1115
+  label: 十六國春秋北涼錄
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2i0005_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 1491
+  label: 十六國春秋後涼錄
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR2i0005_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 2764
+  label: 十六國春秋後燕錄
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR2i0005_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 1045
+  label: 十六國春秋南涼錄
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR2i0005_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 2248
+  label: 十六國春秋南燕錄
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR2i0005_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 1353
+  label: 十六國春秋西秦錄
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR2i0005_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 1170
+  label: 十六國春秋北燕錄
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR2i0005_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 1255
+  label: 十六國春秋夏錄
+  type: section
+  level: 1
+hash: sha256:13f29940e888704a21741b60a1cae14cf48df06a8ff1617e4416a3ba1daa3e3b
