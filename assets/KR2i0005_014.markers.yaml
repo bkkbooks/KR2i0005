@@ -19,7 +19,6 @@ markers:
   - {type: variant, offset: 5, length: 1, content: 西, krp: 卷十四後趙録四石𢎞石𢎞字大雅勒之第二子也幼有孝行以恭謹自守受經於杜嘏誦律於續咸勒曰今世非承平不可專以文業教也於是使劉徴任潘授以兵書王陽教之擊刺立為世子領中領軍尋署衛將軍使領開府辟召後鎮鄴勒僭位立為太子虚襟愛士好為文詠其所親昵莫非儒素勒謂中書令徐光曰大雅愔愔殊不似將家子光曰漢祖以馬上取天下孝文以𤣥黙守之聖人之後必有勝殘去殺者天之道也勒甚悦光因説曰皇太子仁孝温恭中山王雄暴多詐陛下一旦不諱臣恐社稷非太子所有也宜漸奪中山王威權使太子早㕘朝政勒納之左僕射程遐言於勒曰中山王勇悍機畧羣臣莫及觀其志度自陛下之外視之蔑如兼以專征歳乆威振内外性又殘賊安忍無賴諸子並長皆預兵權陛下在自當無他恐其怏怏不可輔少主也宜早除之以便大計勒曰今天下未平兵難未巳大雅沖幼宜任彊輔中山王佐命功臣親同魯衛方當委以伊霍之任何至如卿所言也卿正恐輔幼主之日不得獨擅帝舅之權爾吾亦當㕘卿於顧命勿過懼也遐泣曰臣所慮者至公陛下乃以私計拒之豈明主開襟納説忠臣必盡之義乎中山王雖為皇太后所養非陛下天屬不可以親義期也仗陛下神規微建鷹犬之效陛下酬其父子恩榮亦已足矣而志願無極魏任司馬懿父子終於鼎祚淪移以此而觀中山豈將來有益者乎臣因縁多幸託𤓰葛於東宫臣而不竭言於陛下更誰言之陛下若不除中山臣已見社稷不復血食矣勒不聴遐退告徐光曰主上向言如是太子必危將若之何光曰中山王常切齒於吾二人恐非但國危亦將為家禍當為安國寧家之計不可坐而受禍也他日光復乗間言於勒曰陛下廓平八州帝有海内而陛下神色若有不怡者何也勒曰今吳蜀未平書軌不一司馬家猶不絶于丹陽吾恐後世謂吾不應符籙不以吾為受命之主每一思之不覺見於神色光曰臣以陛下為憂腹心之患而何暇更憂四支乎何則魏承漢運為正朔帝王劉備雖紹興巴蜀亦不可謂漢不滅也吳雖跨據江東豈有虧魏美陛下包括二都平蕩八州彼司馬家兒復何異𤣥徳李氏亦猶孫權帝王之統不在陛下竟欲安歸此四支之輕患爾中山王藉陛下指授神畧所向輒克天下皆言其英武亞于陛下兼其殘暴多姦見利忘義無伊霍之忠父子並據權位勢傾王室觀其耿耿常有不滿之心近于東宫侍讌有輕皇太子之色陛下隠忍容之臣恐陛下萬年之後宗社必生荆棘此腹心之重疾也惟陛下圖之勒黙然而竟不從及勒死虎執太子𢎞使臨軒收程遐徐光下廷尉召其子邃將兵入宫宿衛文武靡不奔散𢎞大懼自陳劣弱不堪重寄乃讓位于虎虎曰君薨而世子立理之常也臣安敢奸之𢎞泣涕固讓虎怒曰若其不堪重任天下自當有大義何足預論遂以晉咸和八年逼立之大赦改元曰延熈文武百寮進位一等誅程遐徐光八月𢎞策拜虎為丞相魏王大單于加九錫以魏郡等十三郡為國總攝百揆虎偽固讓乆乃受命赦其境内殊死已下立妻鄭氏為魏王后子邃為魏太子加使持節侍中大都督中外諸軍事大將軍録尚書事次子宣為使持節車騎大將軍冀州刺史封河間王韜為前鋒將軍司𨽻校尉封樂安王遵齊王鑒代王苞樂平王徙太原王斌為章武王勒文武舊臣皆補左右丞相閒任虎之府僚舊昵悉署臺省禁要更命太子宫曰崇訓宫勒妻劉氏已下皆徙居之簡勒宫人美淑及車馬珍寳服御之上者皆入丞相府署鎮軍將軍䕫安領左僕射尚書郭殷為右僕射劉氏與彭城王堪密謀堪請出兖州據廪丘挾南陽王恢為盟主宣太后詔討虎事洩虎炙殺堪徴恢還襄國因廢劉氏尋逼殺之尊𢎞母程氏為皇太后冬十月河東王生鎮闗中朗鎮洛陽起兵于二鎮以討丞相虎生自稱}
   - {type: variant, offset: 7, length: 3, content: 錄乞伏, WYG: 州刺史遣使降晉虎留子􅃉守襄}
   - {type: variant, offset: 7, length: 3, content: 錄乞伏, krp: 州刺史遣使降晉虎留子邃守襄}
-  - {type: substitution, offset: 7, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: xml-element, offset: 8, content: '', id: KR2i0005_CHANT_014-bkkxmlele1}
   - {type: 'tls:seg', offset: 8, content: '', id: KR2i0005_CHANT_014-1a.1}
   - {type: 'tls:seg', offset: 8, content: '', id: KR2i0005_CHANT_014-1a.2}
@@ -124,7 +123,6 @@ markers:
   - {type: variant, offset: 207, length: 6, content: 敗國仁收眾至, krp: 也進師入闗遂攻長安旬餘拔之斬蔣英等徙秦州華戎}
   - {type: punctuation, offset: 208, content: ，, id: KR2i0005_CHANT_014-bkkpn40}
   - {type: 'tls:seg', offset: 208, content: '', id: KR2i0005_CHANT_014-1a.41}
-  - {type: substitution, offset: 211, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 216, content: 。, id: KR2i0005_CHANT_014-bkkpn41}
   - {type: 'tls:seg', offset: 216, content: '', id: KR2i0005_CHANT_014-1a.42}
   - {type: variant, offset: 216, length: 3, content: 又聞堅, WYG: 户於闗東生部下斬生以降權奔隴右虎分遣諸將屯于汧隴遣將軍麻秋討蒲洪洪率户二萬迎降虎拜洪光烈將軍䕶羌校尉洪至長安説虎宜徙闗中豪傑及氐羌内實京師虎從之徙雍秦民及氐羌十餘萬户于闗東以洪}
@@ -177,7 +175,6 @@ markers:
   - {type: variant, offset: 295, length: 38, content: 薨偽諡曰烈王廟號烈祖乞伏乾歸國仁弟雄武有度略仁薨群僚以仁子公府幼稚乃立乾歸為, krp: 虎遣}
   - {type: punctuation, offset: 296, content: ，, id: KR2i0005_CHANT_014-bkkpn53}
   - {type: 'tls:seg', offset: 296, content: '', id: KR2i0005_CHANT_014-2a.6}
-  - {type: substitution, offset: 296, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 301, content: ，, id: KR2i0005_CHANT_014-bkkpn54}
   - {type: 'tls:seg', offset: 301, content: '', id: KR2i0005_CHANT_014-2a.7}
   - {type: punctuation, offset: 305, content: 。, id: KR2i0005_CHANT_014-bkkpn55}
@@ -193,7 +190,6 @@ markers:
   - {type: 'tls:seg', offset: 317, content: '', id: KR2i0005_CHANT_014-3a.5}
   - {type: punctuation, offset: 319, content: ，, id: KR2i0005_CHANT_014-bkkpn59}
   - {type: 'tls:seg', offset: 319, content: '', id: KR2i0005_CHANT_014-3a.6}
-  - {type: substitution, offset: 319, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 328, content: ，, id: KR2i0005_CHANT_014-bkkpn60}
   - {type: 'tls:seg', offset: 328, content: '', id: KR2i0005_CHANT_014-3a.7}
   - {type: punctuation, offset: 335, content: 、, id: KR2i0005_CHANT_014-bkkpn61}
@@ -251,7 +247,6 @@ markers:
   - {type: variant, offset: 432, length: 8, content: 來伐乾歸勒眾而進, krp: 討權于郿次于華隂夏四月上邽豪族殺權以降徙秦州三萬餘户于青并二州諸郡南羌氐楊難敵等送任通和長安人陳良夫奔黑羌招誘北羌四角王簿句}
   - {type: punctuation, offset: 434, content: 。, id: KR2i0005_CHANT_014-bkkpn81}
   - {type: 'tls:seg', offset: 434, content: '', id: KR2i0005_CHANT_014-4a.13}
-  - {type: substitution, offset: 437, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 440, content: ，, id: KR2i0005_CHANT_014-bkkpn82}
   - {type: 'tls:seg', offset: 440, content: '', id: KR2i0005_CHANT_014-4a.14}
   - {type: variant, offset: 441, length: 0, content: '', WYG: 等侵擾北地馮翊與章武王斌相持樂安王韜等率騎犄句大之後與斌夾擊}
@@ -298,7 +293,6 @@ markers:
   - {type: 'tls:seg', offset: 490, content: '', id: KR2i0005_CHANT_014-5a.7}
   - {type: punctuation, offset: 494, content: ，, id: KR2i0005_CHANT_014-bkkpn94}
   - {type: 'tls:seg', offset: 494, content: '', id: KR2i0005_CHANT_014-5a.8}
-  - {type: substitution, offset: 503, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 506, content: ，, id: KR2i0005_CHANT_014-bkkpn95}
   - {type: 'tls:seg', offset: 506, content: '', id: KR2i0005_CHANT_014-5a.9}
   - {type: punctuation, offset: 511, content: 。, id: KR2i0005_CHANT_014-bkkpn96}
@@ -421,7 +415,6 @@ markers:
   - {type: 'tls:seg', offset: 789, content: '', id: KR2i0005_CHANT_014-8a.9}
   - {type: punctuation, offset: 794, content: 。, id: KR2i0005_CHANT_014-bkkpn147}
   - {type: 'tls:seg', offset: 794, content: '', id: KR2i0005_CHANT_014-8a.10}
-  - {type: substitution, offset: 797, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 800, content: ，, id: KR2i0005_CHANT_014-bkkpn148}
   - {type: 'tls:seg', offset: 800, content: '', id: KR2i0005_CHANT_014-8a.11}
   - {type: punctuation, offset: 805, content: 。, id: KR2i0005_CHANT_014-bkkpn149}
@@ -449,7 +442,6 @@ markers:
   - {type: 'tls:seg', offset: 831, content: '', id: KR2i0005_CHANT_014-9a.2}
   - {type: punctuation, offset: 835, content: ，, id: KR2i0005_CHANT_014-bkkpn157}
   - {type: 'tls:seg', offset: 835, content: '', id: KR2i0005_CHANT_014-9a.3}
-  - {type: substitution, offset: 840, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 842, content: 。, id: KR2i0005_CHANT_014-bkkpn158}
   - {type: 'tls:seg', offset: 842, content: '', id: KR2i0005_CHANT_014-9a.4}
   - {type: punctuation, offset: 848, content: ，, id: KR2i0005_CHANT_014-bkkpn159}
@@ -472,7 +464,6 @@ markers:
   - {type: 'tls:seg', offset: 893, content: '', id: KR2i0005_CHANT_014-9a.13}
   - {type: punctuation, offset: 900, content: ，, id: KR2i0005_CHANT_014-bkkpn168}
   - {type: 'tls:seg', offset: 900, content: '', id: KR2i0005_CHANT_014-9a.14}
-  - {type: substitution, offset: 901, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 906, content: ，, id: KR2i0005_CHANT_014-bkkpn169}
   - {type: 'tls:seg', offset: 906, content: '', id: KR2i0005_CHANT_014-9a.15}
   - {type: punctuation, offset: 910, content: 。, id: KR2i0005_CHANT_014-bkkpn170}
@@ -521,7 +512,6 @@ markers:
   - {type: 'tls:seg', offset: 998, content: '', id: KR2i0005_CHANT_014-11a.9}
   - {type: punctuation, offset: 1001, content: ，, id: KR2i0005_CHANT_014-bkkpn185}
   - {type: 'tls:seg', offset: 1001, content: '', id: KR2i0005_CHANT_014-11a.10}
-  - {type: substitution, offset: 1002, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 1005, content: ：, id: KR2i0005_CHANT_014-bkkpn186}
   - {type: 'tls:seg', offset: 1005, content: '', id: KR2i0005_CHANT_014-11a.11}
   - {type: punctuation, offset: 1005, content: 「, id: KR2i0005_CHANT_014-bkkpn187}
@@ -662,7 +652,6 @@ markers:
   - {type: variant, offset: 1269, length: 84, content: 年赫連定遣其叔北平公韋代率眾一萬攻南安城內大饑人相食傳侍中乞伏延祚吏部尚書乞伏跋跋踰城奔末乃銜璧出降送於上邽及宗族五百餘人悉為赫連所誅自國仁建義元年乙酉歲至辛未四十七年, krp: ''}
   - {type: punctuation, offset: 1270, content: ，, id: KR2i0005_CHANT_014-bkkpn245}
   - {type: 'tls:seg', offset: 1270, content: '', id: KR2i0005_CHANT_014-15a.3}
-  - {type: substitution, offset: 1282, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 1288, content: 。, id: KR2i0005_CHANT_014-bkkpn246}
   - {type: 'tls:seg', offset: 1288, content: '', id: KR2i0005_CHANT_014-15a.4}
   - {type: punctuation, offset: 1292, content: ，, id: KR2i0005_CHANT_014-bkkpn247}
@@ -687,4 +676,4 @@ markers:
   - {type: punctuation, offset: 1353, content: 。, id: KR2i0005_CHANT_014-bkkpn257}
   - {type: xml-element, offset: 1353, content: '', id: KR2i0005_CHANT_014-bkkxmlele54}
   back: []
-hash: sha256:b8a0d610d7514de9dfa080a786b6b8cdf70b23f60dc515d81f84586d65a7403a
+hash: sha256:4b0ec0ae9761d8757b19078bb72b3bf75402a0b3252532ec704bba6f3ffca681

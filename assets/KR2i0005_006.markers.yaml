@@ -9,7 +9,6 @@ markers:
   - {type: punctuation, offset: 5, content: ．, id: KR2i0005_CHANT_006-bkkpn1}
   - {type: variant, offset: 5, length: 1, content: 蜀, WYG: 卷六前趙}
   - {type: variant, offset: 5, length: 1, content: 蜀, krp: 卷六前趙}
-  - {type: substitution, offset: 6, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: xml-element, offset: 7, content: '', id: KR2i0005_CHANT_006-bkkxmlele1}
   - {type: 'tls:seg', offset: 7, content: '', id: KR2i0005_CHANT_006-1a.1}
   - {type: 'tls:seg', offset: 7, content: '', id: KR2i0005_CHANT_006-1a.2}
@@ -47,7 +46,6 @@ markers:
   - {type: variant, offset: 32, length: 23, content: 郡薄賦歛之口歲出錢四十巴人謂賦為賨因謂之賨人焉, krp: 安昌子喬豫率甲士五千遷韜等}
   - {type: punctuation, offset: 33, content: 。, id: KR2i0005_CHANT_006-bkkpn7}
   - {type: 'tls:seg', offset: 33, content: '', id: KR2i0005_CHANT_006-1a.8}
-  - {type: substitution, offset: 35, original: 歛, replacement: 斂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1114}}
   - {type: punctuation, offset: 43, content: ，, id: KR2i0005_CHANT_006-bkkpn8}
   - {type: 'tls:seg', offset: 43, content: '', id: KR2i0005_CHANT_006-1a.9}
   - {type: punctuation, offset: 49, content: ，, id: KR2i0005_CHANT_006-bkkpn9}
@@ -184,10 +182,8 @@ markers:
   - {type: 'tls:seg', offset: 359, content: '', id: KR2i0005_CHANT_006-1a.64}
   - {type: punctuation, offset: 367, content: 。, id: KR2i0005_CHANT_006-bkkpn70}
   - {type: 'tls:seg', offset: 367, content: '', id: KR2i0005_CHANT_006-1a.65}
-  - {type: substitution, offset: 369, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 372, content: ，, id: KR2i0005_CHANT_006-bkkpn71}
   - {type: 'tls:seg', offset: 372, content: '', id: KR2i0005_CHANT_006-1a.66}
-  - {type: substitution, offset: 374, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 377, content: ，, id: KR2i0005_CHANT_006-bkkpn72}
   - {type: 'tls:seg', offset: 377, content: '', id: KR2i0005_CHANT_006-1a.67}
   - {type: punctuation, offset: 381, content: 。, id: KR2i0005_CHANT_006-bkkpn73}
@@ -236,7 +232,6 @@ markers:
   - {type: variant, offset: 437, length: 26, content: 曉兵法部陣肅然廞惡其齊整殺之復以特為督將特兄弟既怨廞, krp: 軍劉貢於南安休屠王石武自桑城}
   - {type: punctuation, offset: 440, content: ，, id: KR2i0005_CHANT_006-bkkpn82}
   - {type: 'tls:seg', offset: 440, content: '', id: KR2i0005_CHANT_006-1a.76}
-  - {type: substitution, offset: 441, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4111}}
   - {type: punctuation, offset: 444, content: 。, id: KR2i0005_CHANT_006-bkkpn83}
   - {type: 'tls:seg', offset: 444, content: '', id: KR2i0005_CHANT_006-1a.77}
   - {type: punctuation, offset: 449, content: ，, id: KR2i0005_CHANT_006-bkkpn84}
@@ -252,7 +247,6 @@ markers:
   - {type: variant, offset: 466, length: 15, content: 緜竹廞恐朝廷討己遣長史費遠等督, WYG: 上邽遇於𤓰田武以衆寡不敵奔保張春故壘安引軍追武曰叛逆胡奴要當生縛此奴然後斬劉貢耳武閉闗拒之貢敗安後軍俘斬}
   - {type: page-break, offset: 466, content: '', id: KR2i0005_WYG_006-6a, image: WYG0463/WYG0463-0359c.png}
   - {type: variant, offset: 466, length: 15, content: 緜竹廞恐朝廷討己遣長史費遠等督, krp: 上邽遇於𤓰田武以衆寡不敵奔保張春故壘安引軍追武曰叛逆胡奴要當生縛此奴然後斬劉貢耳武閉闗拒之貢敗安後軍俘斬}
-  - {type: substitution, offset: 466, original: 緜, replacement: 綿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1180}}
   - {type: punctuation, offset: 468, content: 。, id: KR2i0005_CHANT_006-bkkpn88}
   - {type: 'tls:seg', offset: 468, content: '', id: KR2i0005_CHANT_006-1a.82}
   - {type: punctuation, offset: 474, content: ，, id: KR2i0005_CHANT_006-bkkpn89}
@@ -270,7 +264,6 @@ markers:
   - {type: variant, offset: 486, length: 4, content: 道次緜竹, krp: 秦梁益巴漢隴右西域雜夷匈奴諸軍事太師領大司馬凉州牧西域大都䕶䕶氐羌校尉凉王加九錫曜至自河西氐羌楊難敵聞陳安死内懐危懼與弟堅頭南奔漢中鎮西將軍厚追擊}
   - {type: punctuation, offset: 487, content: ，, id: KR2i0005_CHANT_006-bkkpn90}
   - {type: 'tls:seg', offset: 487, content: '', id: KR2i0005_CHANT_006-1a.84}
-  - {type: substitution, offset: 488, original: 緜, replacement: 綿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1180}}
   - {type: variant, offset: 491, length: 7, content: 石亭密收合得七, WYG: 獲其輜重千餘輛士女六}
   - {type: page-break, offset: 491, content: '', id: KR2i0005_WYG_006-9a, image: WYG0463/WYG0463-0361a.png}
   - {type: variant, offset: 491, length: 7, content: 石亭密收合得七, krp: 獲其輜重千餘輛士女六}
@@ -397,14 +390,12 @@ markers:
   - {type: punctuation, offset: 745, content: ：, id: KR2i0005_CHANT_006-bkkpn134}
   - {type: 'tls:seg', offset: 745, content: '', id: KR2i0005_CHANT_006-3a.7}
   - {type: punctuation, offset: 745, content: 「, id: KR2i0005_CHANT_006-bkkpn135}
-  - {type: substitution, offset: 747, original: 兇, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0052}}
   - {type: punctuation, offset: 749, content: ，, id: KR2i0005_CHANT_006-bkkpn136}
   - {type: 'tls:seg', offset: 749, content: '', id: KR2i0005_CHANT_006-3a.8}
   - {type: punctuation, offset: 753, content: ，, id: KR2i0005_CHANT_006-bkkpn137}
   - {type: 'tls:seg', offset: 753, content: '', id: KR2i0005_CHANT_006-3a.9}
   - {type: variant, offset: 757, length: 142, content: 人眾在諸堡驕怠無備是天亡之時也可告諸村密刻期日內外擊之破之必矣尚從之遣大眾奄襲特營尚出逆戰到官桑特軍敗績死之雄稱成都王追諡景王及稱尊號追尊曰景皇帝廟號始祖李流字元通特第四子也少好學便弓馬東羌校尉何攀稱流有賁育之勇舉為東羌校尉平趙廞于成都晉朝論功拜奮威將軍封武陽侯建初元年特既見殺流自稱, WYG: 騎常侍忠義}
   - {type: variant, offset: 757, length: 142, content: 人眾在諸堡驕怠無備是天亡之時也可告諸村密刻期日內外擊之破之必矣尚從之遣大眾奄襲特營尚出逆戰到官桑特軍敗績死之雄稱成都王追諡景王及稱尊號追尊曰景皇帝廟號始祖李流字元通特第四子也少好學便弓馬東羌校尉何攀稱流有賁育之勇舉為東羌校尉平趙廞于成都晉朝論功拜奮威將軍封武陽侯建初元年特既見殺流自稱, krp: 騎常侍忠義}
-  - {type: substitution, offset: 758, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 762, content: ，, id: KR2i0005_CHANT_006-bkkpn138}
   - {type: 'tls:seg', offset: 762, content: '', id: KR2i0005_CHANT_006-3a.10}
   - {type: punctuation, offset: 766, content: 。, id: KR2i0005_CHANT_006-bkkpn139}
@@ -422,7 +413,6 @@ markers:
   - {type: 'tls:seg', offset: 788, content: '', id: KR2i0005_CHANT_006-3a.16}
   - {type: punctuation, offset: 791, content: ，, id: KR2i0005_CHANT_006-bkkpn146}
   - {type: 'tls:seg', offset: 791, content: '', id: KR2i0005_CHANT_006-3a.17}
-  - {type: substitution, offset: 793, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 798, content: 。, id: KR2i0005_CHANT_006-bkkpn147}
   - {type: 'tls:seg', offset: 798, content: '', id: KR2i0005_CHANT_006-3a.18}
   - {type: punctuation, offset: 802, content: ，, id: KR2i0005_CHANT_006-bkkpn148}
@@ -599,7 +589,6 @@ markers:
   - {type: 'tls:seg', offset: 1132, content: '', id: KR2i0005_CHANT_006-5a.37}
   - {type: punctuation, offset: 1135, content: ；, id: KR2i0005_CHANT_006-bkkpn228}
   - {type: 'tls:seg', offset: 1135, content: '', id: KR2i0005_CHANT_006-5a.38}
-  - {type: substitution, offset: 1143, original: 宂, replacement: 冗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0063}}
   - {type: punctuation, offset: 1145, content: ，, id: KR2i0005_CHANT_006-bkkpn229}
   - {type: 'tls:seg', offset: 1145, content: '', id: KR2i0005_CHANT_006-5a.39}
   - {type: punctuation, offset: 1151, content: 。, id: KR2i0005_CHANT_006-bkkpn230}
@@ -862,7 +851,6 @@ markers:
   - {type: 'tls:seg', offset: 1686, content: '', id: KR2i0005_CHANT_006-10a.21}
   - {type: punctuation, offset: 1691, content: ，, id: KR2i0005_CHANT_006-bkkpn348}
   - {type: 'tls:seg', offset: 1691, content: '', id: KR2i0005_CHANT_006-10a.22}
-  - {type: substitution, offset: 1693, original: 擄, replacement: 虜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4142}}
   - {type: punctuation, offset: 1695, content: 。, id: KR2i0005_CHANT_006-bkkpn349}
   - {type: 'tls:seg', offset: 1695, content: '', id: KR2i0005_CHANT_006-10a.23}
   - {type: punctuation, offset: 1699, content: ，, id: KR2i0005_CHANT_006-bkkpn350}
@@ -897,7 +885,6 @@ markers:
   - {type: 'tls:seg', offset: 1754, content: '', id: KR2i0005_CHANT_006-11a.9}
   - {type: punctuation, offset: 1756, content: ，, id: KR2i0005_CHANT_006-bkkpn363}
   - {type: 'tls:seg', offset: 1756, content: '', id: KR2i0005_CHANT_006-11a.10}
-  - {type: substitution, offset: 1757, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
   - {type: punctuation, offset: 1764, content: 。, id: KR2i0005_CHANT_006-bkkpn364}
   - {type: 'tls:seg', offset: 1764, content: '', id: KR2i0005_CHANT_006-11a.11}
   - {type: punctuation, offset: 1770, content: ，, id: KR2i0005_CHANT_006-bkkpn365}
@@ -908,11 +895,9 @@ markers:
   - {type: 'tls:seg', offset: 1777, content: '', id: KR2i0005_CHANT_006-11a.14}
   - {type: punctuation, offset: 1782, content: ，, id: KR2i0005_CHANT_006-bkkpn368}
   - {type: 'tls:seg', offset: 1782, content: '', id: KR2i0005_CHANT_006-11a.15}
-  - {type: substitution, offset: 1782, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 1785, content: ：, id: KR2i0005_CHANT_006-bkkpn369}
   - {type: 'tls:seg', offset: 1785, content: '', id: KR2i0005_CHANT_006-11a.16}
   - {type: punctuation, offset: 1785, content: 「, id: KR2i0005_CHANT_006-bkkpn370}
-  - {type: substitution, offset: 1787, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 1789, content: ，, id: KR2i0005_CHANT_006-bkkpn371}
   - {type: 'tls:seg', offset: 1789, content: '', id: KR2i0005_CHANT_006-11a.17}
   - {type: punctuation, offset: 1793, content: ，, id: KR2i0005_CHANT_006-bkkpn372}
@@ -937,7 +922,6 @@ markers:
   - {type: 'tls:seg', offset: 1824, content: '', id: KR2i0005_CHANT_006-12a.2}
   - {type: punctuation, offset: 1826, content: ，, id: KR2i0005_CHANT_006-bkkpn381}
   - {type: 'tls:seg', offset: 1826, content: '', id: KR2i0005_CHANT_006-12a.3}
-  - {type: substitution, offset: 1834, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 1838, content: 。, id: KR2i0005_CHANT_006-bkkpn382}
   - {type: xml-element, offset: 1838, content: '', id: KR2i0005_CHANT_006-bkkxmlele34}
   - {type: xml-element, offset: 1838, content: '', id: KR2i0005_CHANT_006-bkkxmlele35}
@@ -1037,7 +1021,6 @@ markers:
   - {type: variant, offset: 1989, length: 99, content: 里陌勢眾自潰三月溫至城下縱火燒其大城門勢眾惶懼無復固志勢乃夜開東門走九百里至晉壽然後送降文于溫勢尋輿襯面縛軍門溫解縛焚襯送勢及叔父福等十餘人于建康晉封為歸義侯升平五年卒常璩字道將蜀成都人少好學著華陽, krp: 六}
   - {type: punctuation, offset: 1991, content: ，, id: KR2i0005_CHANT_006-bkkpn416}
   - {type: 'tls:seg', offset: 1991, content: '', id: KR2i0005_CHANT_006-14a.8}
-  - {type: substitution, offset: 1992, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 1995, content: 。, id: KR2i0005_CHANT_006-bkkpn417}
   - {type: 'tls:seg', offset: 1995, content: '', id: KR2i0005_CHANT_006-14a.9}
   - {type: punctuation, offset: 1997, content: ，, id: KR2i0005_CHANT_006-bkkpn418}
@@ -1046,7 +1029,6 @@ markers:
   - {type: 'tls:seg', offset: 2001, content: '', id: KR2i0005_CHANT_006-14a.11}
   - {type: punctuation, offset: 2008, content: ，, id: KR2i0005_CHANT_006-bkkpn420}
   - {type: 'tls:seg', offset: 2008, content: '', id: KR2i0005_CHANT_006-14a.12}
-  - {type: substitution, offset: 2009, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 2012, content: ，, id: KR2i0005_CHANT_006-bkkpn421}
   - {type: 'tls:seg', offset: 2012, content: '', id: KR2i0005_CHANT_006-14a.13}
   - {type: punctuation, offset: 2016, content: 。, id: KR2i0005_CHANT_006-bkkpn422}
@@ -1160,4 +1142,4 @@ markers:
   - {type: punctuation, offset: 2272, content: 。, id: KR2i0005_CHANT_006-bkkpn480}
   - {type: xml-element, offset: 2272, content: '', id: KR2i0005_CHANT_006-bkkxmlele42}
   back: []
-hash: sha256:00357138e7cee228b0414187e276f0f102d974ff9830d901fd93bcd81668cdd8
+hash: sha256:48ef4941285b5d62bc824e651e06e7688a89adfe75f3c6c4707f703936be7b26
